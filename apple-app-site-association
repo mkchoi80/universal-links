@@ -5,7 +5,7 @@
     "details": [
     {
     "appID": "VDL485ULB9.com.tmon.UniversalLinks",
-    "components": [{ "/" : "", "?": { "parameter": "something" } }]
+    "components": [{ "/" : ""}]
     
     }]
   }
