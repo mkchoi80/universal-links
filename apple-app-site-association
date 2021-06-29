@@ -1,12 +1,12 @@
 
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "VDL485ULB9.com.tmon.UniversalLinks",
-                "paths": ["*"]
-            }
-        ]
-    }
-}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+    "appID": "VDL485ULB9.com.tmon.UniversalLinks",
+    "components": [{ "/" : "", "?": { "parameter": "something" } }]
+    
+    }]
+  }
+  }
